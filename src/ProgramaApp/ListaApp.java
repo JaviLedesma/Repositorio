@@ -13,7 +13,8 @@ public class ListaApp {
     
     public ListaApp(){
     		
-			LNum=new Lista();
+            LNum=new Lista(); 
+            //Probando 
 		}
 
 		
